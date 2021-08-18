@@ -7,4 +7,9 @@ Oi ya jangan lupa untuk memasang library yang dibutuhkan oleh script ini
 > Installasi Library  
 ```sh
 npm install chalk-rainbow random-pick-name crypto-js chalk dotenv
-```
+```    
+> Kalau sudah, bisa langsung dirun
+```sh
+node flush
+```    
+Selamat Ngeprank teman kalian
